@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ephralee
-- 👀 I’m interested in ... using tech to contribute to healthcare, activism, gaming
-- 🌱 I’m currently learning ... HTML/CSS in a full-stack developer program with 100 Devs
-- ✨ I'm currently playing... Valorant, Zelda TOTK, Catan
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... becoming a software engineer and using tech to contribute to healthcare, activism, gaming
+- 🌱 I’m currently learning ... responsive media for HTML/CSS with 100 Devs
+- ✨ I'm currently playing... Horizon:Zero Dawn. 
+  
 - 
 - 
 <!---

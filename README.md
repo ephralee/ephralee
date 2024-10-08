@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ephralee
-- 👀 I’m interested in ... software engineering and using tech to contribute to healthcare, activism, childcare, gaming
-- 🌱 I’m currently learning ... responsive media for HTML/CSS with 100 Devs
+- 👀 I’m interested in ... software engineering and using tech to contribute to healthcare, childcare, gaming
+- 🌱 I’m currently learning ... responsive media for HTML/CSS
 - ✨ I'm currently playing... Horizon:Zero Dawn. 
   
 - 
